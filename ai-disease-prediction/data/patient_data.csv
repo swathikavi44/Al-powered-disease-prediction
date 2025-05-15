@@ -1,0 +1,6 @@
+age,gender,bp,cholesterol,symptom_score,disease
+45,Male,High,High,7,Diabetes
+30,Female,Normal,Normal,3,Healthy
+60,Male,Low,High,9,Heart Disease
+25,Female,Normal,Normal,2,Healthy
+50,Male,High,Normal,8,Hypertension
